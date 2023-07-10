@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\91814\source\repos\aquarium\Source.c(19,20): warning C4552: '*': result of expression not used
+C:\Users\91814\source\repos\aquarium\Source.c(442,16): warning C4013: 'exit' undefined; assuming extern returning int
+  aquarium.vcxproj -> C:\Users\91814\source\repos\aquarium\Debug\aquarium.exe
